@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Network Signal Quality Analyzer",
+  "description": "An intelligent network diagnostics assistant that analyzes Wi-Fi and mobile signal parameters, calculates network quality scores, and provides root cause analysis and practical improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
